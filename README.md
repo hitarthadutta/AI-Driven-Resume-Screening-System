@@ -1,4 +1,4 @@
-# AI-Driven Resume Screening System
+# 🤖📄 AI-Driven Resume Screening System
 
 An intelligent, AI-driven resume screening application leveraging advanced Natural Language Processing (NLP) and machine learning techniques, built with Streamlit for automated candidate evaluation, ranking, and informed hiring decision support.
 
