@@ -80,7 +80,10 @@ This AI-driven system evaluates and ranks candidates using a weighted scoring mo
 - pandas data analysis library  
 - plotly for interactive charts  
 - PyPDF2 for PDF parsing  
-- python-docx for Word document handling  
+- python-docx for Word document handling
+
+## Video Tutorial
+https://github.com/user-attachments/assets/d19936b5-2191-47ab-9e9a-cdea8ebfcda7
 
 ## License
 
