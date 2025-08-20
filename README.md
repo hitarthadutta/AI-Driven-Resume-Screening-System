@@ -90,5 +90,3 @@ https://github.com/user-attachments/assets/d19936b5-2191-47ab-9e9a-cdea8ebfcda7
 This project is open source and freely available for educational, research, and commercial applications.
 
 ***
-
-Let me know if you want me to include example screenshots or usage demonstrations as well!
